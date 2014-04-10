@@ -1,2 +1,6 @@
 MarbleSynth
 ===========
+
+Graphically controlled synthesizer
+----------------------------------
+
